@@ -1,0 +1,36 @@
+ Git tutorial notes
+ 
+ 1 go to gitbash
+ 2 git --version
+ 3 git config --global user.name "Manoj" --> configure your username
+ 4 git config --global user.email "mvispute608@gmail.com" -- > configure email
+ 5 git config --list --> check all git configuration/settings
+ 6 clear --> clear screen ans settings saved
+ 
+ 7	git Project :-
+	pwd
+	--> /c/Userd/manoj -- we get current directory
+ 8	cd ~
+	-- > we get home directory
+ 9	cd ..
+	-- > it will navigate you one upper directory
+10	ls 
+	-- > all directories and files available in current folder/directory
+11	cd Desktop
+	-- > navigate to desktop
+12 cd Tuna
+	--> navigate to desktop and Tuna folder/directory
+13 git init
+	-- > initialise empty git Repository 
+	
+14 ls --> list contents on folder/directory
+   ls -la --> hidden files never touch here
+   
+15 git add . --> to add file in current directory
+
+16 git commit -m "THis is first commit" -- > indicates this is first commit
+
+17 git log -- > gives you logs of files that we have didi
+
+18 git log --authod "Manoj" -- all changes made by Mannoj
+
