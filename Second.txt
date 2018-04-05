@@ -32,5 +32,6 @@
 
 17 git log -- > gives you logs of files that we have didi
 
-18 git log --authod "Manoj" -- all changes made by Mannoj
+18 git log --authod "Manoj"
 
+Rajsaheb thakre
