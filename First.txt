@@ -26,4 +26,4 @@
 14 ls --> list contents on folder/directory
    ls -la --> hidden files never touch here
    
-15 Balasaheb thakre
+15 Raj saheb is great
