@@ -34,4 +34,6 @@
 
 18 git log --authod "Manoj"
 
-MNS second file
+19 git checkout -- index.html --> checkout file from Repository into working directory
+
+20 git reset HEAD contact.html -- > file will be removed from stagig area (unstaged)
